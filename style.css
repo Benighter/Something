@@ -8,3 +8,7 @@ body {
     font-size: 100px;
     font-weight: 1000px;
 }
+
+.text {
+    letter-spacing: 20px;   
+}
