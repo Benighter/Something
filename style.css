@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+}
+
+.bold {
+    font-size: 100px;
+    font-weight: 1000px;
+}
